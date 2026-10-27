@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyFormApp",
-    "slug": "MyFormApp",
+    "name": "react-native-forms",
+    "slug": "react-native-forms",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
